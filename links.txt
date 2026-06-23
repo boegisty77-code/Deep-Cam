@@ -1,0 +1,6 @@
+https://huggingface.co/hacksider/deep-live-cam/resolve/main/FGFPGANv1.4.pth&v=9FlCz4nkQas
+https://huggingface.co/hacksider/deep-live-cam/resolve/main/inswapper_128_fp16.onnx&v=9FlCz4nkQas
+https://huggingface.co/hacksider/deep-live-cam/resolve/main/inswapper_128.onnx&v=9FlCz4nkQas
+https://github.com/Glat0s/GFPGAN-1024-onnx/releases/download/v0.0.1/gfpgan-1024.onnx&v=9FlCz4nkQas
+https://huggingface.co/akhaliq/GPEN-BFR-512/resolve/e6e4f31c275697a77fb0ee3e0a273c3313378dfe/GPEN-BFR-512.pth&v=9FlCz4nkQas
+https://huggingface.co/camenduru/GPEN/resolve/d5180a955cae99824cfcc21fcdf5236952f5a04f/GPEN-BFR-256.pth&v=9FlCz4nkQas
